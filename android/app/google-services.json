@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599429833990",
+    "project_id": "vechilerentingapp",
+    "storage_bucket": "vechilerentingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599429833990:android:3c71b59df073dbd6dbea87",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_renting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599429833990-ih5plg5h76o9l2hsjb70glgmdrr2qjai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQDt1HUH2uRB_OwhR0_ajBJQOO-JBI9Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599429833990-ih5plg5h76o9l2hsjb70glgmdrr2qjai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
